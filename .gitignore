@@ -1,0 +1,4 @@
+.env
+PyroBot/BotzHub.session-journal
+PyroBot/BotzHub.session
+__pycache__/
